@@ -1,0 +1,18 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: NSTEM
+# Property: NSTEM Website - GA4
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20231215
+# End date: 20240113
+Event name,Event count,Total users,Event count per user,Total revenue
+page_view,13424,3908,3.460685743748389,0
+user_engagement,10544,3045,3.5111555111555113,0
+scroll,5202,2118,2.4595744680851066,0
+session_start,4752,3914,1.2272727272727273,0
+first_visit,3685,3684,1.000271444082519,0
+click,531,282,1.8829787234042554,0
+view_search_results,145,65,2.230769230769231,0
+file_download,26,15,1.7333333333333334,0
